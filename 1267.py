@@ -12,4 +12,3 @@ elif(y_t <m_t):
     print("Y",y_t)
 else:
     print("Y M", y_t)
-print(m_t)

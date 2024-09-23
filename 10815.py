@@ -9,6 +9,6 @@ for n in b:
     value[n]= True
 for m in d:
     if m in b:
-        print(1, end ="")
+        print(1, end =" ")
     else: 
-        print(0 , end = "")
+        print(0 , end = " ")
